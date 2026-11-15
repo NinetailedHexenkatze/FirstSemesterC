@@ -1,0 +1,6 @@
+#ifndef FIRSTSEMESTERC_11TH_FUNCTION_H
+#define FIRSTSEMESTERC_11TH_FUNCTION_H
+
+int count_digits(const char *str);
+
+#endif //FIRSTSEMESTERC_11TH_FUNCTION_H
