@@ -47,4 +47,7 @@ add_executable(FirstSemesterC main.c
         Semester_1/Eighth/23th_RepWords.h
         Semester_1/Nineth/9th_5th_task.c
         Semester_1/Nineth/5th_Hotels.c
-        Semester_1/Nineth/5th_Hotels.h)
+        Semester_1/Nineth/5th_Hotels.h
+        Semester_1/Nineth/9th_13th_task.c
+        Semester_1/Nineth/13th_Eq.c
+        Semester_1/Nineth/13th_Eq.h)
