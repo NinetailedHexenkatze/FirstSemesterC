@@ -41,4 +41,7 @@ add_executable(FirstSemesterC main.c
         Semester_1/Seventh/15th_functions.h
         Semester_1/Eighth/8th_11th_task.c
         Semester_1/Eighth/11th_Function.c
-        Semester_1/Eighth/11th_Function.h)
+        Semester_1/Eighth/11th_Function.h
+        Semester_1/Eighth/8th_23th_task.c
+        Semester_1/Eighth/23th_RepWords.c
+        Semester_1/Eighth/23th_RepWords.h)

@@ -1,0 +1,9 @@
+#ifndef FIRSTSEMESTERC_23TH_REPWORDS_H
+#define FIRSTSEMESTERC_23TH_REPWORDS_H
+
+#define MAX_WORDS 100
+#define MAX_LEN 1024
+
+void findRepeatedWords(char *str);
+
+#endif //FIRSTSEMESTERC_23TH_REPWORDS_H
