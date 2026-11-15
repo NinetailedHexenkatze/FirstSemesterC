@@ -52,7 +52,6 @@ int process_and_copy_file(const char *src_filename, const char *dest_filename, i
             double val;
             if (fscanf(f_in, "%lf", &val) != 1) break;
 
-            // Выделяем дробную часть числа
             double dummy;
             double fractional_part = fabs(modf(val, &dummy));
 
